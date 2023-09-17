@@ -1,0 +1,19 @@
+description: 'Universal protected 8 channels input.  INPUTUNI01A Construction of universal
+  high voltage protected/galvanic isolated input. Can be used both for analog and
+  digital signals. '
+github_branch: INPUTUNI01A
+github_description: 'Universal protected 8 channels input.  INPUTUNI01A Construction
+  of universal high voltage protected/galvanic isolated input. Can be used both for
+  analog and digital signals. '
+github_repo: INPUTUNI01
+github_url: https://github.com/mlab-modules/INPUTUNI01
+homepage: false
+images:
+- doc/img/INPUTUNI01A_top_big.jpg
+- doc/img/INPUTUNI01A_top_small.jpg
+- doc/img/INPUTUNI01A_QRcode.png
+mark: 50
+status: 0
+tags: []
+title: INPUTUNI01
+updated: '2023-09-17T11:43:43.683970+00:00'

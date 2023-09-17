@@ -1,0 +1,10 @@
+bom: hw/sch_pcb/INPUTUNI01.kicad_pcb
+color: white
+eda:
+  pcb: hw/sch_pcb/INPUTUNI01.kicad_pcb
+  type: kicad
+gerbers: hw/cam_profi/
+site: https://github.com/mlab-modules/INPUTUNI01
+summary: 'Universal protected 8 channels input.  INPUTUNI01A Construction of universal
+  high voltage protected/galvanic isolated input. Can be used both for analog and
+  digital signals. '
